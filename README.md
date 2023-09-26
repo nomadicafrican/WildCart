@@ -1,4 +1,4 @@
-# Jungle-Rails
+# WildCart
 
 A mini e-commerce application built with Rails 4.2 for the purposes of teaching Rails by example.
 
